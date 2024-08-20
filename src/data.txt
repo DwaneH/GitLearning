@@ -1,0 +1,2 @@
+Sample data file for learners to work with.
+Feel free to edit or expand on this file as needed.
